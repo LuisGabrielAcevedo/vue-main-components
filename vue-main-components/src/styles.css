@@ -1,0 +1,38 @@
+.hljs {
+    background: #2d2d2d;
+    font-size: 16px;
+    font-family: "Inconsolata", monospace;
+    color: white;
+    margin: 10px;
+    box-shadow: none !important;
+}
+.hljs-string {
+    color: #7ec699;
+}
+.hljs-number{
+    color: #7ec699;
+}
+.hljs-name {
+    color: #e2777a;
+}
+.hljs-tag {
+    color: #e2777a;
+}
+.hljs-keyword {
+    color: #cc99cd;
+}
+.hljs-meta {
+    color: #e6db74;    
+}           
+code:before {
+    content: '';
+}
+.hljs-literal {
+    color: #f08d49; 
+}
+.hljs-built_in {
+    color: white;
+}
+.hljs-title {
+    color: white;
+}

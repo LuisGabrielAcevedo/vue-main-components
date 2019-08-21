@@ -1,9 +1,0 @@
-<template>
-    <div>
-        <v-checkbox
-            :label="`${aspect.name}`"
-            v-model="value"
-            @change="changeModel()"
-        ></v-checkbox>
-    </div>
-</template>
